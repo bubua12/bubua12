@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a middle company
+- 🌱 I’m currently learning java & go & k8s & spring...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with devops
+- 💬 Ask me about ...
+- 📫 How to reach me: 1919543837@qq.com
+- 😄 Pronouns: 布布爱一二
+- ⚡ Fun fact: keep fat...
+
 <!--
 **bubua12/bubua12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
