@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a middle company
+<!-- - 🔭 I’m currently working on a middle company -->
 - 🌱 I’m currently learning java & go & k8s & spring...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with devops
