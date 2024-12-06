@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with devops
 - 💬 Ask me about Java & Spring & MicroServices & DevOps & OnCloud...
 - 📫 How to reach me: wangty334752@gmail.com
-- 😄 Pronouns: 布布爱一二
 - ⚡ Fun fact: keep fat...
 
 <!--
